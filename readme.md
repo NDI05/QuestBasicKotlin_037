@@ -31,3 +31,6 @@
 
 # Default Parameters Values
 ![12.png](./12.png)
+
+# function without return
+![13.png](./13.png)
