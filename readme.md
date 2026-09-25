@@ -37,3 +37,6 @@
 
 # Lambda Expression
 ![14.png](./14.png)
+
+# Access Properties
+![15.png](./15.png)
