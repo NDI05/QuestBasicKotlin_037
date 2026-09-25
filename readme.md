@@ -54,9 +54,9 @@
 # Check for null values
 ![20.png](./20.png)
 
-
-
-
-
 # use the safe call operator
 ![21.png](./21.png)
+
+# Elvis operator
+![22.png](./22.png)
+
