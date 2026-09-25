@@ -43,3 +43,6 @@
 
 # Compare Instance
 ![17.png](./17.png)
+
+# Copy Instance
+![18.png](./18.png)
