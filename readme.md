@@ -40,3 +40,6 @@
 
 # Access Properties
 ![15.png](./15.png)
+
+# Compare Instance
+![17.png](./17.png)
