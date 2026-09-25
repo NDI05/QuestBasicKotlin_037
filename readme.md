@@ -57,3 +57,6 @@
 
 
 
+
+# use the safe call operator
+![21.png](./21.png)
