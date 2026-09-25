@@ -23,3 +23,6 @@
 
 # for
 ! [9.png](./9.png)
+
+# function
+![10.png](./10.png)
