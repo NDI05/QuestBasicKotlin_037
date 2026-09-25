@@ -51,6 +51,9 @@
 # Nullable Types
 ![19.png](./19.png)
 
+# Check for null values
+![20.png](./20.png)
+
 
 
 
