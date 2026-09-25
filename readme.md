@@ -28,3 +28,6 @@
 ![10.png](./10.png)
 # Named Args
 ![11.png](./11.png)
+
+# Default Parameters Values
+![12.png](./12.png)
