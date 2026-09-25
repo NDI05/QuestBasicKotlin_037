@@ -3,3 +3,6 @@
 
 # String Templates
 ![2.png](./2.png)
+
+# Tipe Data Dasar
+![3.png](./3.png)
