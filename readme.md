@@ -26,6 +26,7 @@
 
 # function
 ![10.png](./10.png)
+
 # Named Args
 ![11.png](./11.png)
 
@@ -46,3 +47,10 @@
 
 # Copy Instance
 ![18.png](./18.png)
+
+# Nullable Types
+![19.png](./19.png)
+
+
+
+
