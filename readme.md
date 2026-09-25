@@ -12,3 +12,11 @@
 
 # sets
 ![5.png](./5.png)
+
+# map
+![6.png](./6.png)
+
+# if
+![7.png](./7.png)
+# when
+![8.png](./8.png)
