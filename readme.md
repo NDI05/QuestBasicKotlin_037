@@ -34,3 +34,6 @@
 
 # function without return
 ![13.png](./13.png)
+
+# Lambda Expression
+![14.png](./14.png)
